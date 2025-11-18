@@ -1,0 +1,6 @@
+
+# Cython debug symbols
+cython_debug/
+outputs/
+./marscode
+./venv
