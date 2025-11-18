@@ -1,5 +1,5 @@
 
-# learing tomographic reconstruction
+# learning tomographic reconstruction
 
 ## Introduction
 
